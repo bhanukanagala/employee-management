@@ -58,7 +58,7 @@ employee-management-mini/
 ├── backend
 
 │   ├── Spring Boot Application
-│   ├── REST APIs
+    ├── REST APIs
 │   ├── JPA Repository
 │   └── Service Layer
 
