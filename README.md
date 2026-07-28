@@ -1,4 +1,4 @@
-# Employee Management Mini System
+# Employee Management System
 
 ## Overview
 
