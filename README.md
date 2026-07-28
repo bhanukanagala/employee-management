@@ -68,8 +68,11 @@ employee-management-mini/
 ├── frontend
 
 │   ├── React Application
-│   ├── Login UI
-│   ├── Employee UI
-│   └── API Integration
+
+    ├── Login UI
+    
+    ├── Employee UI
+    
+    └── API Integration
 
 └── README.md
