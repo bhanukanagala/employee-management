@@ -56,17 +56,17 @@ The application allows users to login and manage employee information through a 
 employee-management-mini/
 
 ├── backend
-│
+
 │   ├── Spring Boot Application
 │   ├── REST APIs
 │   ├── JPA Repository
 │   └── Service Layer
-│
+
 ├── frontend
-│
+
 │   ├── React Application
 │   ├── Login UI
 │   ├── Employee UI
 │   └── API Integration
-│
+
 └── README.md
