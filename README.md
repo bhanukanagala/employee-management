@@ -1,15 +1,15 @@
 # "🫆"Employee Management System📚🖥️
 
-## Overview🌐
+##🎉 Overview🌐
 
 Employee Management Mini System is a full-stack web application built using React and Java Spring Boot.
 
 The application allows users to login and manage employee information through a REST API based architecture.
 
 
-## Features
+## Features📌💭
 
-### Authentication
+### Authentication🛅
 
 - User Login
 - Username and Password Validation
